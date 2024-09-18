@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+myenv/
+output*
+ny_taxi_postgres_data/
